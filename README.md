@@ -71,7 +71,7 @@ dataset used by the application under `data/processed/`.
 
 | Variable | Description |
 |----------|---------------------------------|
-| `price`  | Listed vehicle price in GBP (£) |
+| `price`  | Estimated vehicle price in GBP (£) |
 
 ### Main Features
 
@@ -403,7 +403,6 @@ vehicle condition, service history, location, and market changes.
 
 **CarWise**
 <br>
-*Drive smarter
-Understand the market*
+*Understand the market, Drive smarter*
 
 </div>
