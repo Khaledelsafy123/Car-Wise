@@ -383,18 +383,36 @@ not be treated as guaranteed selling prices, dealer offers, or
 professional vehicle assessments. Actual market value can vary with
 vehicle condition, service history, location, and market changes.
 
+---
+
 ## 👨‍💻 Author
-
-**Khaled Elsafy**
-
-- GitHub: [@Khaledelsafy123](https://github.com/Khaledelsafy123)
-- Project Repository:
-  [CarWise](https://github.com/Khaledelsafy123/Car_Wise)
-
-------------------------------------------------------------------------
 
 <div align="center">
 
-**CarWise — Drive smarter. Understand the market.**
+### Khaled Elsafy
+
+**Computer Science Student**
+
+<br>
+
+<a href="https://github.com/Khaledelsafy123">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+</a>
+<a href="https://github.com/Khaledelsafy123/Car_Wise">
+  <img src="https://img.shields.io/badge/Project-CarWise-2563EB?style=for-the-badge&logo=github" alt="CarWise Repository">
+</a>
+
+<br><br>
+
+*Built with curiosity, data, and Machine Learning.*
+
+<br>
+
+**CarWise**
+<br>
+*Drive smarter
+Understand the market*
+
+</div>
 
 </div>
