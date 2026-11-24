@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 🚘 CarWise
 
@@ -9,8 +9,8 @@
 An end-to-end Machine Learning project that estimates used-car prices
 and turns vehicle listings into interactive market insights.
 
-[![GitHub
-Repository](https://img.shields.io/badge/GitHub-Car__Wise-181717?logo=github)](https://github.com/Khaledelsafy123/Car_Wise)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20CarWise-FF4B4B?logo=streamlit&logoColor=white)](https://carwise.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Car__Wise-181717?logo=github)](https://github.com/Khaledelsafy123/Car_Wise)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
@@ -69,7 +69,7 @@ dataset used by the application under `data/processed/`.
 
 ### Target Variable
 
-| Variable | Description                     |
+| Variable | Description |
 |----------|---------------------------------|
 | `price`  | Listed vehicle price in GBP (£) |
 
@@ -93,7 +93,7 @@ artifact rather than creating a separate feature order.
 
 ## 🔄 Project Workflow
 
-``` mermaid
+```mermaid
 flowchart TD
     A["Raw Vehicle CSV Files"] --> B["Data Loading & Integration"]
     B --> C["Data Understanding & Quality Audit"]
@@ -182,6 +182,8 @@ uses the saved LightGBM pipeline for its predictions.
 
 The application is organized into five sections.
 
+**🌐 Live Demo:** [https://carwise.streamlit.app/](https://carwise.streamlit.app/)
+
 ### 1. Dashboard
 
 - Overall dataset statistics.
@@ -259,7 +261,7 @@ guarantee that a vehicle is fairly priced or mechanically sound.
 
 ## 📁 Project Structure
 
-``` text
+```text
 Car_Wise/
 │
 ├── app/
@@ -309,14 +311,14 @@ Car_Wise/
 
 ### 1. Clone the Repository
 
-``` bash
+```bash
 git clone https://github.com/Khaledelsafy123/Car_Wise.git
 cd Car_Wise
 ```
 
 ### 2. Create a Virtual Environment
 
-``` bash
+```bash
 python -m venv .venv
 ```
 
@@ -324,19 +326,19 @@ Activate it:
 
 **Windows PowerShell**
 
-``` powershell
+```powershell
 .venv\Scripts\Activate.ps1
 ```
 
 **macOS / Linux**
 
-``` bash
+```bash
 source .venv/bin/activate
 ```
 
 ### 3. Install Dependencies
 
-``` bash
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
@@ -345,7 +347,7 @@ pip install -r requirements.txt
 
 From the project root, run:
 
-``` bash
+```bash
 streamlit run app/main.py
 ```
 
@@ -354,21 +356,16 @@ terminal.
 
 ## 🚀 Deployment
 
-CarWise is built as a Streamlit application and can be deployed using
-Streamlit Community Cloud.
+CarWise is successfully deployed on **Streamlit Community Cloud**.
 
-1.  Push the repository to GitHub.
-2.  Open [Streamlit Community Cloud](https://share.streamlit.io/).
-3.  Create a new app and connect the `CarWise` repository.
-4.  Select the `main` branch.
-5.  Set the main file path to `app/main.py`.
-6.  Deploy the application.
-
-Once deployment is complete, add the public app URL to this README.
+- **Live Application:** [https://carwise.streamlit.app/](https://carwise.streamlit.app/)
+- **Platform:** [Streamlit Community Cloud](https://share.streamlit.io/)
+- **Source Code:** [GitHub Repository](https://github.com/Khaledelsafy123/Car_Wise)
+- **Branch:** `main`
+- **Main File:** `app/main.py`
 
 ## 🔮 Future Improvements
 
-- Deploy the application and add a public live demo.
 - Add automated tests for prediction and data-loading workflows.
 - Add model monitoring and periodic evaluation on newer listings.
 - Expand the dataset with additional manufacturers and vehicle listings.
@@ -404,13 +401,9 @@ vehicle condition, service history, location, and market changes.
 
 <br><br>
 
-
-
 **CarWise**
 <br>
 *Drive smarter
 Understand the market*
-
-</div>
 
 </div>
