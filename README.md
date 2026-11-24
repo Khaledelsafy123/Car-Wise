@@ -359,7 +359,7 @@ Streamlit Community Cloud.
 
 1.  Push the repository to GitHub.
 2.  Open [Streamlit Community Cloud](https://share.streamlit.io/).
-3.  Create a new app and connect the `Car_Wise` repository.
+3.  Create a new app and connect the `CarWise` repository.
 4.  Select the `main` branch.
 5.  Set the main file path to `app/main.py`.
 6.  Deploy the application.
@@ -398,15 +398,13 @@ vehicle condition, service history, location, and market changes.
 <a href="https://github.com/Khaledelsafy123">
   <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
 </a>
-<a href="https://github.com/Khaledelsafy123/Car_Wise">
+<a href="https://github.com/Khaledelsafy123/CarWise">
   <img src="https://img.shields.io/badge/Project-CarWise-2563EB?style=for-the-badge&logo=github" alt="CarWise Repository">
 </a>
 
 <br><br>
 
-*Built with curiosity, data, and Machine Learning.*
 
-<br>
 
 **CarWise**
 <br>
