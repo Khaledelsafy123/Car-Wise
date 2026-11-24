@@ -403,6 +403,6 @@ vehicle condition, service history, location, and market changes.
 
 **CarWise**
 <br>
-*Understand the market, Drive smarter*
+*Drive smarter. Understand the market.*
 
 </div>
