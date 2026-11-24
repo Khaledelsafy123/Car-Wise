@@ -10,7 +10,7 @@ An end-to-end Machine Learning project that estimates used-car prices
 and turns vehicle listings into interactive market insights.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20CarWise-FF4B4B?logo=streamlit&logoColor=white)](https://carwise.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Car__Wise-181717?logo=github)](https://github.com/Khaledelsafy123/Car_Wise)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Car__Wise-181717?logo=github)](https://github.com/Khaledelsafy123/CarWise)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
